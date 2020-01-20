@@ -1,0 +1,44 @@
+.container-fluid{
+    display: flex;
+    background-color: whitesmoke;
+}
+
+  .head{
+      
+      padding: 10px 5px;
+      margin-top: 30px;
+  }
+  .b{
+      border: 1px solid;
+      border-color: black;
+      padding: 30px 15px;
+      margin-top: 30px;
+      background-color: #FFFFFF;
+  }
+  .venue{
+      border: 1px solid;
+      margin-top: 30px;
+      padding: 10px 10px;
+      background-color: #FFFFFF;
+  }
+  .sideBar{
+      font-weight: bold;
+
+      
+    
+      
+  }
+  .bt{
+    background-color: rgb(57, 132, 243); 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 100px;
+  margin-top: 5px;
+  
+  
+  }
